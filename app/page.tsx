@@ -311,6 +311,9 @@ export default function Home() {
               <X className="h-5 w-5" />
               <span className="sr-only">X</span>
             </Link>
+            <Link href="/legal" className="text-muted-foreground hover:text-foreground transition-colors">
+              特定商取引法に基づく表記
+            </Link>
           </div>
         </div>
       </footer>
