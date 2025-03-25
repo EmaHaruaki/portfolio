@@ -82,7 +82,7 @@ export default function Legal() {
                 </tr>
                 <tr>
                   <td className="py-2 px-4 border-b">販売価格</td>
-                  <td className="py-2 px-4 border-b">【初期費用】<br />20,000円<br />【更新費用】<br />20,000円/年<br />【保守費用】<br />2,000円/月<br />【オプション費用】<br />お客様とのご相談により決定します。</td>
+                  <td className="py-2 px-4 border-b">【初期費用】<br />20,000円<br />【ドメイン取得・更新費用】<br />5,000円/年<br />【保守費用】<br />1,000円/月<br />【オプション費用】<br />お客様とのご相談により決定します。</td>
                 </tr>
               </tbody>
             </table>
